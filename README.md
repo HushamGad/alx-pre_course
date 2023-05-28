@@ -1,2 +1,2 @@
-My first readme
-README updated form github.ocm
+another readmeform github.com
+README updated form github.com
